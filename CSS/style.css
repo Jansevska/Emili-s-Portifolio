@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(232, 232, 225);
+    padding: auto 80px 0px 80px;
+}
+
+header{
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-align: center;
+    width: 100%;
+    padding: 40px;
+    background-color: rgb(0, 0, 0, 0.5)
+}
+
+.list{
+    list-style-type: none;
+    font-size: 25px;
+    letter-spacing: 0.1em;
+}
+
+.list li{
+    padding: 10px;
+    display: inline-block;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+li a:hover{
+    color: whitesmoke;
+}
+
+h1{
+    letter-spacing: 0.2em;
+    font-size: 90px;
+    color:whitesmoke;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+main{
+    margin-top: 40px;
+    padding: 20px 120px 0px 80px;
+    margin-left: 250px;
+}
+
+h2{
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    color: rgb(87, 85, 85);
+}
+
+article{
+    padding: 0px 120px;
+}
+
+article p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 1.7;
+    text-align: justify;
+}
+
+.paddling a{
+    text-decoration: none;
+    color: gray;
+}
+
+.paddling a:hover{
+    color: rgb(228, 120, 138);
+}
+
+#ubatuba{
+    width: 350px;
+}
+
+#ritz{
+    width: 350px;
+}
+
+#solo{
+    width: 350px;
+    height: 550px;
+}
+
+#saw{
+    width: 350px;
+}
+
+#pfml{
+    width: 350px;
+}
+
+h3{
+    text-transform: uppercase;
+    font-size: 27px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    color: rgb(128, 127, 127);
+}
+
+.text-to-right{
+    width: 60%;
+    float: right;
+    margin-right: 60px;
+}
+
+.form{
+    padding: 20px 550px
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(0, 0, 0, 0.5);
+    padding: 60px;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 0.1em;
+    margin-bottom: 10px;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+    letter-spacing: 0.1em;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+footer a:hover{
+    color: pink;
+}
+
+.copyright{
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+    font-size: 15px;
+}
