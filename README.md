@@ -1,1 +1,1 @@
-Built with only one week learning HTML and CSS only.
+Built with only one week learning HTML and CSS.
